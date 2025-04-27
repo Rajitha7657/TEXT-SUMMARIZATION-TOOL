@@ -18,7 +18,9 @@ A text summarization tool is a software application designed to automatically co
 
 # OUTPUT :
 
+![Image](https://github.com/user-attachments/assets/5f7712cd-47a6-4385-babc-6120535bc9ff)
 
+![Image](https://github.com/user-attachments/assets/925e6da6-a8b1-40c8-a5d3-ea80fd23d821)
 
 
 
